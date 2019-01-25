@@ -1,0 +1,1720 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Permiss",
+				"Permissions"
+			],
+			[
+				"getPermi",
+				"getPermissionAccessObject"
+			],
+			[
+				"getB",
+				"getByHandle"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"author",
+				"authorNews"
+			],
+			[
+				"getPa",
+				"getPageTypeID"
+			],
+			[
+				"Gr",
+				"GroupSetEntity"
+			],
+			[
+				"del",
+				"deleteCollectionAttributes"
+			],
+			[
+				"new",
+				"newsImage"
+			],
+			[
+				"Collection",
+				"CollectionAttributeKey"
+			],
+			[
+				"Coll",
+				"CollectionAttributeControl"
+			],
+			[
+				"form",
+				"formLayoutSet"
+			],
+			[
+				"page",
+				"PageType"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"job",
+				"jobSet"
+			],
+			[
+				"in",
+				"installed"
+			],
+			[
+				"isnta",
+				"installedJobs"
+			],
+			[
+				"sub",
+				"subFolder"
+			],
+			[
+				"Pack",
+				"PackageList"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Singl",
+				"SinglePage"
+			],
+			[
+				"Job",
+				"JobSet"
+			],
+			[
+				"feat",
+				"featuredNewsPages"
+			],
+			[
+				"news",
+				"newsPages"
+			],
+			[
+				"is",
+				"isVisible"
+			],
+			[
+				"ass",
+				"assignments"
+			],
+			[
+				"pagin",
+				"paginator"
+			],
+			[
+				"for",
+				"forwardUrl"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"prev",
+				"prevClass"
+			],
+			[
+				"lim",
+				"limit"
+			],
+			[
+				"creat",
+				"createSegmentedList"
+			],
+			[
+				"limi",
+				"limit1"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"head",
+				"headlinePage"
+			],
+			[
+				"newsPage",
+				"newsPageList"
+			],
+			[
+				"newsP",
+				"newsPageList"
+			],
+			[
+				"at",
+				"authorName"
+			],
+			[
+				"bool",
+				"boolval"
+			],
+			[
+				"add",
+				"addressHelper"
+			],
+			[
+				"Ad",
+				"AddressHelper"
+			],
+			[
+				"order",
+				"orderProducts"
+			],
+			[
+				"get",
+				"getKKEng"
+			],
+			[
+				"fo",
+				"formats"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"fr",
+				"formats"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"KK",
+				"KK_LOCALE"
+			],
+			[
+				"produc",
+				"productList"
+			],
+			[
+				"ma",
+				"mappedData"
+			],
+			[
+				"title",
+				"titleCodes"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"regio",
+				"regions"
+			],
+			[
+				"en",
+				"enabledRegions"
+			],
+			[
+				"chce",
+				"checked"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"backger",
+				"background-repeat\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tabs",
+				"tabButtons"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"data",
+				"data-city"
+			],
+			[
+				"cit",
+				"cityName"
+			],
+			[
+				"tab",
+				"tablinks"
+			],
+			[
+				"pub",
+				"pubPriceAttr"
+			],
+			[
+				"auhto",
+				"author_dashboard"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"hid",
+				"hideBanner_"
+			],
+			[
+				"re",
+				"redactorBox"
+			],
+			[
+				"row",
+				"rowWrapper"
+			],
+			[
+				"ro",
+				"royalties"
+			],
+			[
+				"Das",
+				"DashboardPageController"
+			],
+			[
+				"local",
+				"localeHelper"
+			],
+			[
+				"kk",
+				"kkData"
+			],
+			[
+				"url",
+				"urlParam"
+			],
+			[
+				"getBy",
+				"getByID"
+			],
+			[
+				"bas",
+				"basketItems"
+			],
+			[
+				"se",
+				"sessionId"
+			],
+			[
+				"close",
+				"close-btn"
+			],
+			[
+				"cam",
+				"camHelper"
+			],
+			[
+				"cu",
+				"currencySymbol"
+			],
+			[
+				"cou",
+				"countryCode"
+			],
+			[
+				"Lo",
+				"LocaleHelper"
+			],
+			[
+				"aut",
+				"author-dashboard"
+			],
+			[
+				"bsak",
+				"basketItems"
+			],
+			[
+				"price",
+				"priceDelivery"
+			],
+			[
+				"dicoun",
+				"discountedPrice"
+			],
+			[
+				"origin",
+				"originalPrice"
+			],
+			[
+				"or",
+				"originalUnitTotal"
+			],
+			[
+				"pan",
+				"parentDiv"
+			],
+			[
+				"orin",
+				"originalUnitPrice"
+			],
+			[
+				"disc",
+				"discountedUnitTotal"
+			],
+			[
+				"orgin",
+				"originalUnitPrice"
+			],
+			[
+				"fom",
+				"formats"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"sta",
+				"stack"
+			],
+			[
+				"email",
+				"emailAddr"
+			],
+			[
+				"fa",
+				"flatObject"
+			],
+			[
+				"fro",
+				"forEach"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"cusomt",
+				"customAttrArray"
+			],
+			[
+				"ava",
+				"availLegend"
+			],
+			[
+				"custom",
+				"customAttrs"
+			],
+			[
+				"customA",
+				"customAttrArray"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"getP",
+				"getPubPriceCanada"
+			],
+			[
+				"ori",
+				"originalPrice"
+			],
+			[
+				"float",
+				"floatval"
+			],
+			[
+				"ip",
+				"ipCode"
+			],
+			[
+				"tit",
+				"titles"
+			],
+			[
+				"pbu",
+				"pubPrice"
+			],
+			[
+				"obj",
+				"obj-"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"pro",
+				"promotionObj"
+			],
+			[
+				"diu",
+				"discountedPrice"
+			],
+			[
+				"Pro",
+				"Promotion"
+			],
+			[
+				"coupn",
+				"couponCode"
+			],
+			[
+				"coup",
+				"couponCode"
+			],
+			[
+				"sam",
+				"samplePromotionObj"
+			],
+			[
+				"Cam",
+				"CamHelper"
+			],
+			[
+				"Currec",
+				"Currency"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Order",
+				"OrderObj"
+			],
+			[
+				"bo",
+				"bodyParams"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/front.html",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2019-01-24-test-post.md",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2019-01-24-welcome-to-jekyll.markdown",
+			"settings":
+			{
+				"buffer_size": 1203,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/krodriguez/Downloads/stylish-portfolio-jekyll-master/_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"unders",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"undesr",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"under",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"unde",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"underes",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"undes",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"uner",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"HTMLPrettify"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ry",
+				"Set Syntax: Ruby"
+			],
+			[
+				"udners",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"un",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"yui",
+				"Build With: YUI Compressor"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reomve ",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 326.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/jekyll/garcia"
+	],
+	"file_history":
+	[
+		"/D/jekyll/garcia/index.html",
+		"/C/Users/krodriguez/Downloads/stylish-portfolio-jekyll-master/_includes/scripts.html",
+		"/D/jekyll/garcia/_posts/2019-01-24-welcome-to-jekyll.markdown",
+		"/D/jekyll/garcia/.gitignore",
+		"/D/xampp_ah/htdocs/authorhub/concrete/controllers/panel/detail/page/permissions.php",
+		"/D/xampp_ah/htdocs/authorhub/application/elements/page_controls_footer.php",
+		"/D/xampp_ah/htdocs/authorhub/application/controllers/panel/detail/page/permissions.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/views/panels/details/page/permissions/advanced.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/elements/permission/lists/page.php",
+		"/D/xampp_ah/htdocs/authorhub/application/tools/edit_collection_popup.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/tools/edit_collection_popup.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/bootstrap/paths.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/bootstrap/helpers.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/bootstrap/configure.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/bootstrap/autoload.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Access/Access.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Key/Key.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Page.php",
+		"/D/xampp_ah/htdocs/authorhub/application/config/app.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/config/app.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/page_forbidden.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/single_pages/service_unavailable.php",
+		"/D/xampp_ah/htdocs/authorhub/application/elements/footer_required.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Type.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Collection/Collection.php",
+		"/D/xampp_ah/htdocs/authorhub/application/elements/header_required.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/themes/elemental/page_forbidden.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/elements/author/main_heading.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/single_pages/page_forbidden.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/controllers/backend/page.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/tools/permissions/access/entity/types/group_set.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/single_page/dashboard/authorhub/system/cms_tasks.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/install/attributes/collection/authorhub_news.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Access/Entity/GroupSetEntity.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/tools/permissions/access_entity.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/User/Group/GroupSet.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/User/Group/GroupSetList.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Access/Entity/Entity.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Services/Cambridge.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/User/Group/Group.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/frontend/cms_tasks.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Attribute/Key/CollectionKey.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Job/CmsTask.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/FormLayoutSetControl.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/single_pages/dashboard/authorhub/system/cms_tasks.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/FormLayoutSet.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/Control/CollectionAttributeControl.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/Control/Control.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/jobs/generate_sitemap.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Job/Job.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/cms_tasks/nine_seven_three.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/single_page/dashboard/authorhub/ecommerce/locale_toggle.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Services/News.php",
+		"/D/xampp_ah/htdocs/authorhub/application/controllers/single_page/dashboard/system/optimization/jobs.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/controllers/single_page/dashboard/system/optimization/jobs.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controller.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/CHANGELOG",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Job/Job.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Attribute/Key/Key.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/Control/CorePageProperty/CorePageProperty.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/Control/CorePageProperty/DateTimeCorePageProperty.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Validator/StandardValidator.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Type/Composer/Control/CorePageProperty/NameCorePageProperty.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/send_welcome_emails.php",
+		"/D/xampp_ah/htdocs/authorhub/application/single_pages/dashboard/system/optimization/jobs.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Job/Set.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/controllers/frontend/jobs.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/blocks/page_attribute_display/controller.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Utility/Service/Text.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Utility/Service/Validation/Strings.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Form/Service/Form.php",
+		"/D/xampp_ah/htdocs/authorhub/application/src/Html/Service/Html.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/single_page/dashboard/authorhub/system/testing_tools.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/single_pages/dashboard/authorhub/system/testing_tools.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Database/Connection/Connection.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/single_pages/dashboard/system/optimization/jobs.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/single_pages/dashboard/system/optimization/view.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/ahub_nine_seven_three.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/ahub_973.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/nine_seven_three.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/cms_tasks/ahub_973.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/ahub.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Attribute/Key/FileKey.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/install/attributes/file/ah_resources.php",
+		"/D/xampp_ah/apache/logs/error.log",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Attribute/Key/Category.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/authorhub_news.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/elements/author/news/headline_card.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/elements/author/news/item_card.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/page_type/author_dashboard.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/author_news.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/author_dashboard.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/test_job.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/page_type/authorhub_homepage.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Package/Package.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/controllers/single_page/dashboard/extend/update.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/vendor/mlocati/concrete5-translation-library/src/Parser/DynamicItem/JobSet.php",
+		"/D/xampp_ah/htdocs/authorhub/application/config/update.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/jobs/new_royalties_notification.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Services/Pagination.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/single_page/author_dashboard/discounts.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/author_news_listing.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Legacy/ItemList.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Legacy/PageList.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/konakart_tiles/src/App/Engine.php",
+		"/D/xampp_ah/htdocs/authorhub/updates/concrete5.7.5.13/concrete/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/composer.json",
+		"/D/xampp_ah/htdocs/authorhub/updates/concrete5.7.5.13/concrete/src/Utility/Service/Text.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/css/custom.css",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/page_type/author_news.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Legacy/NewsPageList.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/controllers/page_type/author_news_listing.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Legacy/DatabaseItemList.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Access/ListItem/ListItem.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Duration.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Foundation/Repetition/AbstractRepetition.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Controller/PageTypeController.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Page/Controller/PageController.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Controller/Controller.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Controller/AbstractController.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Application/ApplicationAwareInterface.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Permission/Access/ListItem/PageListItem.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Legacy/PageList.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Legacy/Pagination.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/themes/authorhub/css/app.css",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Legacy/DatabaseItemList.php",
+		"/D/xampp_ah/htdocs/authorhub/packages/authorhub/src/Authorhub/PaginationInterface.php",
+		"/D/xampp_ah/htdocs/authorhub/concrete/src/Asset/AssetInterface.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/front.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2019-01-24-test-post.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2019-01-24-welcome-to-jekyll.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/krodriguez/Downloads/stylish-portfolio-jekyll-master/_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 407.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "garcia.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gefil",
+				"Gemfile"
+			],
+			[
+				"edit_collection",
+				"concrete\\tools\\edit_collection_popup.php"
+			],
+			[
+				"permission key",
+				"concrete\\src\\Permission\\Key\\Key.php"
+			],
+			[
+				"permission access",
+				"concrete\\src\\Permission\\Access\\Access.php"
+			],
+			[
+				"app.php",
+				"concrete\\config\\app.php"
+			],
+			[
+				"page",
+				"concrete\\src\\Page\\Page.php"
+			],
+			[
+				"panels details page permissions adva",
+				"concrete\\views\\panels\\details\\page\\permissions\\advanced.php"
+			],
+			[
+				"page control",
+				"application\\elements\\page_controls_footer.php"
+			],
+			[
+				"concrete controller panel detail page perm",
+				"concrete\\controllers\\panel\\detail\\page\\permissions.php"
+			],
+			[
+				"app.hp",
+				"concrete\\config\\app.php"
+			],
+			[
+				"concrete controllers panel detail page permis",
+				"concrete\\controllers\\panel\\detail\\page\\permissions.php"
+			],
+			[
+				"colectio",
+				"concrete\\src\\Page\\Collection\\Collection.php"
+			],
+			[
+				"page type",
+				"concrete\\src\\Page\\Type\\Type.php"
+			],
+			[
+				"footer ",
+				"application\\elements\\footer_required.php"
+			],
+			[
+				"page contr",
+				"application\\elements\\page_controls_footer.php"
+			],
+			[
+				"footer",
+				"application\\elements\\footer_required.php"
+			],
+			[
+				"header_req",
+				"application\\elements\\header_required.php"
+			],
+			[
+				"main_heading",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\main_heading.php"
+			],
+			[
+				"page_for",
+				"concrete\\single_pages\\page_forbidden.php"
+			],
+			[
+				"service_unavb",
+				"packages\\authorhub\\single_pages\\service_unavailable.php"
+			],
+			[
+				"tools permissions access entity",
+				"concrete\\tools\\permissions\\access_entity.php"
+			],
+			[
+				"permissions access entity types",
+				"concrete\\tools\\permissions\\access\\entity\\types\\group_set.php"
+			],
+			[
+				"access",
+				"concrete\\tools\\permissions\\access_entity.php"
+			],
+			[
+				"groupset",
+				"concrete\\src\\Permission\\Access\\Entity\\GroupSetEntity.php"
+			],
+			[
+				"group set",
+				"concrete\\src\\User\\Group\\GroupSet.php"
+			],
+			[
+				"group",
+				"concrete\\src\\User\\Group\\Group.php"
+			],
+			[
+				"controllers cms tasks",
+				"packages\\authorhub\\controllers\\single_page\\dashboard\\authorhub\\system\\cms_tasks.php"
+			],
+			[
+				"permission key key",
+				"concrete\\src\\Permission\\Key\\Key.php"
+			],
+			[
+				"collection attribute key",
+				"concrete\\src\\Attribute\\Key\\CollectionKey.php"
+			],
+			[
+				"controllers cms task",
+				"packages\\authorhub\\controllers\\frontend\\cms_tasks.php"
+			],
+			[
+				"collection authorhub news",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"formla",
+				"concrete\\src\\Page\\Type\\Composer\\FormLayoutSetControl.php"
+			],
+			[
+				"cms tasks",
+				"packages\\authorhub\\controllers\\single_page\\dashboard\\authorhub\\system\\cms_tasks.php"
+			],
+			[
+				"cms taks",
+				"packages\\authorhub\\controllers\\frontend\\cms_tasks.php"
+			],
+			[
+				"cms_tasks",
+				"packages\\authorhub\\single_pages\\dashboard\\authorhub\\system\\cms_tasks.php"
+			],
+			[
+				"job",
+				"concrete\\src\\Job\\Job.php"
+			],
+			[
+				"access_entit",
+				"concrete\\tools\\permissions\\access_entity.php"
+			],
+			[
+				"locale toggle",
+				"packages\\authorhub\\controllers\\single_page\\dashboard\\authorhub\\ecommerce\\locale_toggle.php"
+			],
+			[
+				"concrete controllers panel detail page permi",
+				"concrete\\controllers\\panel\\detail\\page\\permissions.php"
+			],
+			[
+				"nine",
+				"packages\\authorhub\\jobs\\cms_tasks\\nine_seven_three.php"
+			],
+			[
+				"controllers jobs",
+				"concrete\\controllers\\single_page\\dashboard\\system\\optimization\\jobs.php"
+			],
+			[
+				"authorhub chan",
+				"packages\\authorhub\\CHANGELOG"
+			],
+			[
+				"app.",
+				"concrete\\config\\app.php"
+			],
+			[
+				"app.p",
+				"concrete\\config\\app.php"
+			],
+			[
+				"news",
+				"packages\\authorhub\\src\\Services\\News.php"
+			],
+			[
+				"page type type",
+				"concrete\\src\\Page\\Type\\Type.php"
+			],
+			[
+				"concrete controllers frontend jobs",
+				"concrete\\controllers\\frontend\\jobs.php"
+			],
+			[
+				"helper",
+				"concrete\\bootstrap\\helpers.php"
+			],
+			[
+				"collection author",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"text.php",
+				"concrete\\src\\Utility\\Service\\Text.php"
+			],
+			[
+				"string",
+				"concrete\\src\\Utility\\Service\\Validation\\Strings.php"
+			],
+			[
+				"servform.php",
+				"concrete\\src\\Form\\Service\\Form.php"
+			],
+			[
+				"html.php",
+				"application\\src\\Html\\Service\\Html.php"
+			],
+			[
+				"job set",
+				"concrete\\src\\Job\\Set.php"
+			],
+			[
+				"cmstak",
+				"packages\\authorhub\\src\\Job\\CmsTask.php"
+			],
+			[
+				"ah_resource",
+				"packages\\authorhub\\install\\attributes\\file\\ah_resources.php"
+			],
+			[
+				"file ah_resou",
+				"packages\\authorhub\\install\\attributes\\file\\ah_resources.php"
+			],
+			[
+				"attribute key category",
+				"concrete\\src\\Attribute\\Key\\Category.php"
+			],
+			[
+				"colleciton author",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"authorhub news",
+				"packages\\authorhub\\themes\\authorhub\\authorhub_news.php"
+			],
+			[
+				"app",
+				"concrete\\config\\app.php"
+			],
+			[
+				"controller",
+				"packages\\authorhub\\controller.php"
+			],
+			[
+				"authchangelog",
+				"packages\\authorhub\\CHANGELOG"
+			],
+			[
+				"collection",
+				"concrete\\src\\Page\\Collection\\Collection.php"
+			],
+			[
+				"collections news",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"ehadlin",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\news\\headline_card.php"
+			],
+			[
+				"item_card",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\news\\item_card.php"
+			],
+			[
+				"author_dash",
+				"packages\\authorhub\\themes\\authorhub\\author_dashboard.php"
+			],
+			[
+				"homepage",
+				"packages\\authorhub\\controllers\\page_type\\authorhub_homepage.php"
+			],
+			[
+				"dashboard extend update",
+				"concrete\\controllers\\single_page\\dashboard\\extend\\update.php"
+			],
+			[
+				"author changelog",
+				"packages\\authorhub\\CHANGELOG"
+			],
+			[
+				"collections authorhub news",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"dashboard system optimization jobs ",
+				"concrete\\single_pages\\dashboard\\system\\optimization\\jobs.php"
+			],
+			[
+				"itemlist",
+				"concrete\\src\\Legacy\\ItemList.php"
+			],
+			[
+				"pagelist",
+				"concrete\\src\\Legacy\\PageList.php"
+			],
+			[
+				"authorhub controller",
+				"packages\\authorhub\\controller.php"
+			],
+			[
+				"engine",
+				"packages\\konakart_tiles\\src\\App\\Engine.php"
+			],
+			[
+				"carbon",
+				"updates\\concrete5.7.5.13\\concrete\\vendor\\nesbot\\carbon\\src\\Carbon\\Carbon.php"
+			],
+			[
+				"custom.css",
+				"packages\\authorhub\\themes\\authorhub\\css\\custom.css"
+			],
+			[
+				"string.p",
+				"concrete\\src\\Utility\\Service\\Validation\\Strings.php"
+			],
+			[
+				"headline",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\news\\headline_card.php"
+			],
+			[
+				"author news listing",
+				"packages\\authorhub\\themes\\authorhub\\author_news_listing.php"
+			],
+			[
+				"item card",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\news\\item_card.php"
+			],
+			[
+				"author news li",
+				"packages\\authorhub\\themes\\authorhub\\author_news_listing.php"
+			],
+			[
+				"newspage",
+				"packages\\authorhub\\src\\Legacy\\NewsPageList.php"
+			],
+			[
+				"database",
+				"concrete\\src\\Legacy\\DatabaseItemList.php"
+			],
+			[
+				"collection news",
+				"packages\\authorhub\\install\\attributes\\collection\\authorhub_news.php"
+			],
+			[
+				"author dash",
+				"packages\\authorhub\\controllers\\page_type\\author_dashboard.php"
+			],
+			[
+				"author dashboard",
+				"packages\\authorhub\\themes\\authorhub\\author_dashboard.php"
+			],
+			[
+				"pagelistitm",
+				"concrete\\src\\Permission\\Access\\ListItem\\PageListItem.php"
+			],
+			[
+				"services news",
+				"packages\\authorhub\\src\\Services\\News.php"
+			],
+			[
+				"author news",
+				"packages\\authorhub\\controllers\\page_type\\author_news.php"
+			],
+			[
+				"author_dashboa",
+				"packages\\authorhub\\controllers\\page_type\\author_dashboard.php"
+			],
+			[
+				"interface",
+				"concrete\\src\\Asset\\AssetInterface.php"
+			],
+			[
+				"databaseitemlist",
+				"packages\\authorhub\\src\\Legacy\\DatabaseItemList.php"
+			],
+			[
+				"login",
+				"application\\controllers\\single_page\\login.php"
+			],
+			[
+				"itemli",
+				"concrete\\src\\Legacy\\ItemList.php"
+			],
+			[
+				"author news list",
+				"packages\\authorhub\\themes\\authorhub\\author_news_listing.php"
+			],
+			[
+				"app.css",
+				"packages\\authorhub\\themes\\authorhub\\css\\app.css"
+			],
+			[
+				"itemcard",
+				"packages\\authorhub\\themes\\authorhub\\elements\\author\\news\\item_card.php"
+			],
+			[
+				"application bootstrap aut",
+				"application\\bootstrap\\autoload.php"
+			],
+			[
+				"concrete",
+				"concrete\\config\\concrete.php"
+			],
+			[
+				"mobile",
+				"concrete\\vendor\\mobiledetect\\mobiledetectlib\\Mobile_Detect.php"
+			],
+			[
+				"classmap",
+				"concrete\\vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"mobile de",
+				"concrete\\vendor\\mobiledetect\\mobiledetectlib\\Mobile_Detect.php"
+			],
+			[
+				"url",
+				"concrete\\src\\Support\\Facade\\Url.php"
+			],
+			[
+				"redirect",
+				"concrete\\src\\Routing\\Redirect.php"
+			],
+			[
+				"author news ",
+				"packages\\authorhub\\themes\\authorhub\\author_news_listing.php"
+			],
+			[
+				"elements pagin",
+				"packages\\authorhub\\themes\\authorhub\\elements\\pagination.php"
+			],
+			[
+				"discounts search.php",
+				"packages\\authorhub\\single_pages\\author-dashboard\\discounts\\search.php"
+			],
+			[
+				"underscore.js",
+				"updates\\concrete5.7.5.13\\concrete\\js\\underscore.js"
+			],
+			[
+				"unders",
+				"concrete\\js\\underscore.js"
+			],
+			[
+				"handle",
+				"concrete\\js\\ace\\snippets\\handlebars.js"
+			],
+			[
+				"discounts",
+				"packages\\konakart_tiles\\elements\\my_discounts_list.php"
+			],
+			[
+				"authorhub header",
+				"packages\\authorhub\\themes\\authorhub\\elements\\header.php"
+			],
+			[
+				"pagination",
+				"packages\\authorhub\\themes\\authorhub\\elements\\pagination.php"
+			],
+			[
+				"agelist",
+				"concrete\\src\\Legacy\\PageList.php"
+			],
+			[
+				"databaseItemlist",
+				"concrete\\src\\Legacy\\DatabaseItemList.php"
+			],
+			[
+				"bread",
+				"packages\\authorhub\\themes\\authorhub\\elements\\breadcrumbs.php"
+			],
+			[
+				"authorhub changelog",
+				"packages\\authorhub\\CHANGELOG"
+			],
+			[
+				"authorhub controll",
+				"packages\\authorhub\\controller.php"
+			],
+			[
+				"engin",
+				"packages\\konakart_tiles\\src\\App\\Engine.php"
+			],
+			[
+				"payment",
+				"packages\\authorhub\\src\\Services\\Payment.php"
+			],
+			[
+				"route checkout",
+				"packages\\konakart_tiles\\controllers\\route\\checkout.php"
+			],
+			[
+				"abstract re",
+				"concrete\\src\\Foundation\\Repetition\\AbstractRepetition.php"
+			],
+			[
+				"permission access ",
+				"concrete\\src\\Permission\\Access\\Access.php"
+			],
+			[
+				"pagelistitem",
+				"concrete\\src\\Permission\\Access\\ListItem\\PageListItem.php"
+			],
+			[
+				"permission duration",
+				"concrete\\src\\Permission\\Duration.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp_ah\\htdocs\\authorhub\\authorhub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"formatSa",
+				"formatSaleData"
+			]
+		],
+		"width": 759.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
