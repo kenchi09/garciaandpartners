@@ -1,40 +1,27 @@
-// Closes the sidebar menu
-$("#menu-close").click(function(e) {
-  e.preventDefault();
-  $("#sidebar-wrapper").toggleClass("active");
-});
+$(document).ready(function () {
+    $('#mainCarousel').carousel({
+        keyboard: false,
+        pause: false
+    });
 
-// Opens the sidebar menu
-$("#menu-toggle").click(function(e) {
-  e.preventDefault();
-  $("#sidebar-wrapper").toggleClass("active");
-});
+    $('#overlayCarousel').carousel();
 
-// Scrolls to the selected menu item on the page
-$(function() {
-  $('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+    // Closes the sidebar menu
+    $('#menu-close').click(function (e) {
+        e.preventDefault();
+        $('#sidebar-wrapper').toggleClass('active');
+    });
 
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-      if (target.length) {
-        $('html,body').animate({
-          scrollTop: target.offset().top
-        }, 1000);
-        return false;
-      }
-    }
-  });
-});
+    // Opens the sidebar menu
+    $('#menu-toggle').click(function (e) {
+        e.preventDefault();
+        $('#sidebar-wrapper').toggleClass('active');
+    });
 
-// Map scrolling behaviour
-$(document).ready(function() {
-  $('#map_iframe').addClass('scrolloff');
-  $('#map').on('click', function () {
-    $('#map_iframe').removeClass('scrolloff');
-  });
-
-  $('#map_iframe').mouseleave(function  () {
-    $('#map_iframe').addClass('scrolloff');
-  });
+    $('#btn-menu').click(function (e) {
+        e.preventDefault();
+        $('.overlay').fadeToggle(200);
+        $(this).find('.fa').toggleClass('fa-bars').toggleClass('fa-times');
+        $(this).toggleClass('btn-menu-open').toggleClass('btn-menu-close');
+    });
 });

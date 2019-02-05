@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: Garcia & Partners
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,15 +9,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Clarence Garcia Meneses
+email: clarencegarcia.meneses@gmail.com
 facebook_username:
 twitter_username:
 github_username:
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
@@ -26,3 +26,5 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+
+contact_email_address: design@garciaandpartners.com

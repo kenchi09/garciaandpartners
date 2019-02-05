@@ -1,0 +1,34 @@
+clients_list:
+  - column: 1
+    clients:
+      - Qatari Diar
+      - Square & Crescent
+      - Sovereign Travel
+      - Habitat First Group
+      - The Manila Hotel
+      - The Carlton Club
+      - Coutts
+      - Trenchard Aviation
+      - Lowermill Estate
+  - column: 2
+    clients:
+      - The Landmark London
+      - Habitat Escape
+      - Silverlake Dorset
+      - North Acre
+      - Moet Hennessy
+      - WATG
+      - Crown Group
+      - Grace Belgravia
+      - Kuoni Travel
+  - column: 3
+    clients:
+      - Audley Curzon
+      - Zaiwalla & Co.
+      - The Shard London
+      - Ten Group
+      - Henley Space
+      - TGC Global
+      - Strawberry Star Group
+      - Maria Tibblin & Co.
+      - MondeAir
