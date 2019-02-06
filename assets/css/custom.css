@@ -59,6 +59,10 @@ nav .button {
     z-index: 99;
 }
 
+#overlayCarousel .carousel-item {
+    background-color: #111;
+}
+
 #overlayCarousel .carousel-item > .row {
     padding-top: 150px;
 }
