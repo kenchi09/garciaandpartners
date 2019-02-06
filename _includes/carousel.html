@@ -4,15 +4,15 @@
             {% for img in site.data.main_carousel %}
                 <div class="carousel-item vh-100 {% if forloop.first %} active {% endif %}"
                 style="background-image: url('assets/img/carousel/{{ img.filename }}')">
-                    <div class="carousel-caption px-4 px-lg-5">
+                    <div class="carousel-caption px-4 px-lg-5 py-4">
                         <div class="row">
                             <div class="col-lg-2 col-md-4 col-sm-4">
-                                <p class="text-dark section-title">Client</p>
+                                <small>Client</small>
                                 <p class="text-body font-weight-bold section-content">{{ img.caption.client }}</p>
                             </div>
                             <div class="col-lg-2 col-md-4 col-sm-4">
-                                <p class="text-dark section-title">Scope</p>
-                                <ul class="list-unstyled font-weight-bold">
+                                <small>Scope</small>
+                                <ul class="list-unstyled font-weight-bold mb-0">
                                     {% for scope in img.caption.scope %}
                                         <li>{{ scope }}</li>
                                     {% endfor %}
