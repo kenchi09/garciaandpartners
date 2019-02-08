@@ -1,34 +1,59 @@
 clients_list:
   - column: 1
     clients:
-      - Qatari Diar
-      - Square & Crescent
-      - Sovereign Travel
-      - Habitat First Group
-      - The Manila Hotel
-      - The Carlton Club
-      - Coutts
-      - Trenchard Aviation
-      - Lowermill Estate
+      - name: Qatari Diar
+        website: http://www.qataridiar.com/English/Pages/default.aspx
+      - name: Square & Crescent
+        website: http://www.squareandcrescent.com/
+      - name: Sovereign Travel
+        website: http://www.sovereigntravel.co.uk/
+      - name: Habitat First Group
+        website: https://www.habitatfirstgroup.com/
+      - name: The Manila Hotel
+        website: https://manila-hotel.com.ph/
+      - name: The Carlton Club
+        website: https://www.carltonclub.co.uk/
+      - name: Coutts
+        website: https://www.coutts.com/
+      - name: Trenchard Aviation
+        website: https://trenchardaviation.com/
+      - name: Lowermill Estate
+        website: https://lowermillestate.com/
   - column: 2
     clients:
-      - The Landmark London
-      - Habitat Escape
-      - Silverlake Dorset
-      - North Acre
-      - Moet Hennessy
-      - WATG
-      - Crown Group
-      - Grace Belgravia
-      - Kuoni Travel
+      - name: The Landmark London
+        website: https://www.landmarklondon.co.uk/
+      - name: Habitat Escapes
+        website: https://www.habitatescapes.com/
+      - name: Silverlake Dorset
+        website: https://silverlakedorset.com/
+      - name: North Acre
+        website: http://www.northacre.com/
+      - name: Moet Hennessy
+        website: http://mhicons.com/
+      - name: WATG
+        website: https://www.watg.com/
+      - name: Crown Group
+        website: https://www.crowngroup.com.au/
+      - name: Grace Belgravia
+        website: https://www.gracebelgravia.com/
+      - name: Kuoni Travel
+        website: https://www.kuoni.co.uk/
   - column: 3
     clients:
-      - Audley Curzon
-      - Zaiwalla & Co.
-      - The Shard London
-      - Ten Group
-      - Henley Space
-      - TGC Global
-      - Strawberry Star Group
-      - Maria Tibblin & Co.
-      - MondeAir
+      - name: Audley Curzon
+        website: http://audleycurzon.com/bespoke-luxury/
+      - name: Zaiwalla & Co.
+        website: https://www.zaiwalla.co.uk/
+      - name: The Shard London
+        website: https://www.the-shard.com/
+      - name: Ten Group
+        website: https://www.tengroup.com/
+      - name: Henley Space
+        website: https://www.henleyspace.com/
+      - name: TGC Global
+        website: https://www.tgcglobal.com.au/
+      - name: Strawberry Star Group
+      - name: Maria Tibblin & Co.
+      - name: MondeAir
+        website: http://www.mondeair.com/

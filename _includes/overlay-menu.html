@@ -55,7 +55,15 @@
                             <div class="col-lg-4 px-md-4 px-xl-5">
                                 <ul class="list-unstyled text-center text-lg-left clients-list">
                                     {% for client in list.clients %}
-                                        <li>{{ client }}</li>
+                                        <li>
+                                            {% if client.website %}
+                                                <a href="{{ client.website }}" target="_blank" rel="noopener">
+                                                    {{ client.name }}
+                                                </a>
+                                            {% else %}
+                                                {{ client.name }}
+                                            {% endif %}
+                                        </li>
                                     {% endfor %}
                                 </ul>
                             </div>
