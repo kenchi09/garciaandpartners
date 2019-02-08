@@ -70,16 +70,16 @@ nav .button {
 }
 
 #overlayCarousel {
-    padding-top: 10rem;
+    padding-top: 8rem;
 }
 
 #overlayCarousel .carousel-item {
     background-color: #111;
-    height: calc(100vh - 10rem) !important;
+    height: calc(100vh - 8rem);
 }
 
 #overlayCarousel .carousel-item .row {
-    height: calc(100vh - 10rem - 66px);
+    height: calc(100vh - 8rem - 66px);
     overflow-y: auto;
 }
 
@@ -111,9 +111,9 @@ nav .button {
 
 
 
-@media screen and (max-width: 768px) and (orientation: portrait) {
+@media screen and (max-width: 768px) and (orientation: landscape) {
     #overlayCarousel {
-        padding-top: 7rem;
+        padding-top: 6rem;
     }
 }
 
@@ -129,14 +129,26 @@ nav .button {
 
 @media screen and (max-width: 992px) and (orientation: landscape) {
     #overlayCarousel {
-        padding-top: 7rem;
+        padding-top: 6rem;
     }
 
     #overlayCarousel .carousel-item {
-        height: calc(100vh - 7rem) !important;
+        height: calc(100vh - 6rem) !important;
     }
 
     #overlayCarousel .carousel-item .row {
-        height: calc(100vh - 7rem - 66px);
+        height: calc(100vh - 6rem - 66px);
+    }
+}
+
+@media screen and (min-width: 768px) and (orientation: landscape) {
+    #overlayCarousel .carousel-item:nth-child(2) .row {
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #overlayCarousel .carousel-item:nth-child(2) .row {
+        height: auto;
     }
 }
